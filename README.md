@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/vrundar-jadhav-27ab25205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrundar-jadhav-27ab25205" height="30" width="40" /></a>
 <a href="https://kaggle.com/vrundarjadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vrundarjadhav" height="30" width="40" /></a>
 <a href="https://fb.com/vrundar jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vrundar jadhav" height="30" width="40" /></a>
-<a href="https://instagram.com/vrundarjadhav_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrundarjadhav_28" height="30" width="40" /></a>
+<a href="https://instagram.com/vrundarjadhav28_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrundarjadhav_28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
